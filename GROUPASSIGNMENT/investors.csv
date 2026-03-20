@@ -1,0 +1,501 @@
+investor_id,investor_name,investor_type,location,sectors_preference,min_check_size_usd,max_check_size_usd,portfolio_companies,founded_year,investment_stage_preference
+INV_001,Stellar Capital,Accelerator,Stockholm,Web3;5G,50303,798050,134,1982,Series D;Series A;Series C
+INV_002,Alpha Collective,Angel,Jerusalem,E-commerce;SaaS,397193,1758297,9,1996,Series C;Series A;Seed
+INV_003,Prime Labs,Angel Network,Atlanta,SaaS;Web3;HealthTech;5G,4873987,46525006,230,1998,Series C;Series D;Seed
+INV_004,Next Equity,Angel Network,Boston,5G;EdTech;Fintech;E-commerce,1950873,90745336,240,2013,Series B;Series C
+INV_005,Apex Capital,Angel Network,Austin,SaaS;EdTech;FoodTech,3141363,36925942,192,1987,Series A
+INV_006,Delta Collective,Corporate VC,Tel Aviv,Gaming;CleanTech;Fintech,9014477,42457403,182,1998,Seed
+INV_007,Emerge Investment,VC,Mumbai,FoodTech;HealthTech;Gaming;Mobility,3538409,75838310,272,1980,Series D
+INV_008,Impact Holdings,Corporate VC,Denver,Web3;E-commerce;EdTech,3874698,71142950,224,2000,Seed;Series B
+INV_009,Future Investment,Angel Network,Beijing,IoT;EdTech;Mobility;Fintech,3260175,96945934,188,1983,Series B;Series A
+INV_010,Spark Growth,VC,San Francisco,E-commerce;SaaS;FoodTech;AI,2075381,39122968,160,1991,Seed;Series D
+INV_011,Beta Group,Accelerator,Toronto,5G;EdTech,248685,908552,160,2012,Series D
+INV_012,Apex Group,Angel,Austin,5G;Fintech,393903,845403,221,2016,Series D;Series B
+INV_013,Summit Holdings,Angel,London,CleanTech;Web3,118008,2783942,205,1981,Series A;Series C
+INV_014,Spark Partners,Accelerator,Atlanta,SaaS;EdTech;Gaming,79844,394735,9,2022,Series C;Series B;Seed
+INV_015,Summit Holdings,Corporate VC,Paris,IoT;5G,9608604,24291549,144,1993,Series D;Series B;Seed
+INV_016,Zenith Group,Angel,Mountain View,5G;SaaS;Web3,233863,3240810,121,1990,Series C;Series D;Series A
+INV_017,Apex Fund,Angel Network,Stockholm,FoodTech;SaaS;Fintech;Mobility,2181356,17442158,54,1989,Series C;Series A;Seed
+INV_018,Emerge Fund,Angel Network,Stockholm,HealthTech;5G,4232382,48531083,185,1986,Series D;Seed;Series A
+INV_019,Vertex Group,Corporate VC,Atlanta,FoodTech;SaaS;EdTech;Mobility,7092587,122834360,51,1995,Series C;Series D;Seed
+INV_020,Alpha Partners,Angel,Tel Aviv,Fintech;Gaming,262707,2507300,103,1990,Series B;Seed;Series D
+INV_021,Emerge Equity,Corporate VC,Tel Aviv,EdTech;5G;CleanTech;HealthTech,3725955,68858270,263,1984,Series B;Seed;Series D
+INV_022,Prime Investment,Angel,Dublin,CleanTech;IoT,169185,2743645,293,1990,Seed;Series B;Series C
+INV_023,Vision Fund,Angel,Miami,FoodTech;Mobility,173336,4366882,44,2013,Seed;Series C
+INV_024,Apex Fund,Angel Network,London,CleanTech;HealthTech;Mobility,3325565,45270839,248,2005,Series C;Series B
+INV_025,Spark Innovation,Angel,Palo Alto,CleanTech;Mobility;IoT,26423,2547792,148,1994,Series A;Series C;Seed
+INV_026,Beta Growth,VC,Beijing,Gaming;CleanTech;HealthTech,4636714,70882971,77,2004,Series C
+INV_027,Beta Partners,VC,Bangalore,IoT;SaaS,1488216,39249822,188,1985,Series A;Series D
+INV_028,Zenith Growth,Corporate VC,Montreal,IoT;Mobility;FoodTech;AI,5529596,14420503,170,2007,Series C
+INV_029,Gamma Labs,Corporate VC,Bangalore,IoT;Gaming;Web3,8332603,151675695,120,2019,Series A;Series D;Seed
+INV_030,Delta Equity,VC,Dublin,HealthTech;5G;E-commerce;Web3,3053667,44371945,45,1990,Seed;Series B
+INV_031,Horizon Fund,Angel,Amsterdam,Fintech;CleanTech;FoodTech;5G,359625,3817675,87,1981,Series D;Seed;Series A
+INV_032,Summit Labs,Angel,Montreal,AI;Mobility;5G;CleanTech,150443,4206978,142,1983,Series D;Series B
+INV_033,Impact Labs,Accelerator,Boston,Mobility;Web3,218820,255107,249,1998,Seed;Series A
+INV_034,Prime Investment,Angel,Dublin,HealthTech;Fintech;Mobility;SaaS,289306,2577191,90,2001,Series A
+INV_035,Vertex Capital,Angel,Seattle,Web3;E-commerce,265267,1938858,53,2003,Seed;Series A;Series C
+INV_036,Quantum Innovation,Corporate VC,Toronto,EdTech;Gaming;HealthTech;Web3,9618586,44227704,295,1983,Series D;Series A;Series C
+INV_037,Vision Partners,Corporate VC,Dublin,5G;Mobility,3745890,27949644,288,2016,Series C;Series A
+INV_038,Impact Capital,Angel Network,Paris,5G;FoodTech;Gaming,1746904,67804161,41,2015,Series D
+INV_039,Beta Partners,Angel Network,Tel Aviv,5G;Gaming;SaaS,3056606,46552092,238,1985,Series A;Series D;Series C
+INV_040,Next Innovation,VC,Miami,E-commerce;AI;EdTech;Mobility,3394177,91133427,13,2020,Series B;Series C;Series D
+INV_041,Rise Collective,VC,Austin,Fintech;HealthTech;E-commerce,4974194,87876097,269,2022,Series C;Seed;Series D
+INV_042,Emerge Labs,Angel Network,Chicago,Mobility;EdTech;Gaming,918363,10430363,185,2002,Seed;Series D;Series A
+INV_043,Next Labs,VC,Miami,HealthTech;SaaS;Mobility,3992190,73719827,93,1995,Series B;Seed;Series C
+INV_044,Gamma Fund,Corporate VC,Beijing,Mobility;IoT;Web3,3299556,119855573,131,2020,Series A
+INV_045,Peak Innovation,Accelerator,Menlo Park,Gaming;Web3;CleanTech,183614,887710,215,2017,Series D;Series B
+INV_046,Vertex Fund,Accelerator,Menlo Park,CleanTech;5G;IoT,143838,296916,205,1985,Seed;Series B
+INV_047,Future Investment,Angel,London,AI;5G;Gaming,333169,2945205,179,1998,Series D;Series B;Series A
+INV_048,Gamma Capital,Angel Network,Beijing,Mobility;Fintech;CleanTech;5G,3963699,50991052,182,2006,Series A
+INV_049,Rise Innovation,Angel,Austin,E-commerce;5G;Fintech,219220,4431684,170,2014,Series C
+INV_050,NexusPartners,Angel Network,New York,FoodTech;AI;5G;SaaS,2532752,9081135,188,1994,Series A;Series C
+INV_051,ApexHoldings,Accelerator,Austin,AI;Mobility;Gaming;EdTech,51785,292867,156,2002,Series D;Series C
+INV_052,HorizonHoldings,VC,Tel Aviv,HealthTech;IoT,3147267,35048343,223,2008,Series C;Series D;Seed
+INV_053,ImpactGrowth,VC,Palo Alto,CleanTech;5G;IoT,4264004,63807155,275,1998,Seed
+INV_054,HorizonGrowth,Corporate VC,Shanghai,Web3;5G;E-commerce;AI,2690945,30637677,283,1990,Series D
+INV_055,GammaFund,Angel Network,Toronto,SaaS;5G,2354826,54323797,136,2007,Series A;Series B
+INV_056,VertexInnovation,Accelerator,Singapore,EdTech;FoodTech;CleanTech;Web3,114655,534449,227,2019,Series C
+INV_057,SummitFund,Corporate VC,Tokyo,Fintech;EdTech;IoT,5656706,95848142,267,2013,Series D
+INV_058,GammaCollective,Accelerator,Amsterdam,Mobility;Gaming,184291,965640,186,1998,Series A;Series D;Seed
+INV_059,NexusEquity,VC,Austin,HealthTech;AI,664797,55376256,157,2002,Series D;Series C;Series A
+INV_060,QuantumGroup,VC,Los Angeles,SaaS;AI,883030,73724511,126,2000,Series C
+INV_061,SummitInnovation,VC,San Francisco,CleanTech;FoodTech;HealthTech;Mobility,2549228,64488414,28,2019,Series A
+INV_062,PrimeGrowth,Corporate VC,Austin,IoT;Fintech,4354613,67318574,107,1986,Series D;Series C
+INV_063,NextInvestment,Corporate VC,Menlo Park,Mobility;SaaS;Gaming,6186123,182248644,211,1986,Series B
+INV_064,EmergePartners,VC,Beijing,SaaS;5G,2118877,88691153,152,2010,Series C;Seed
+INV_065,ZenithInvestment,Angel,Menlo Park,HealthTech;FoodTech,336145,3222929,215,2015,Series C
+INV_066,NextGrowth,Angel Network,Palo Alto,EdTech;AI,3855947,85800868,238,2018,Series A;Series D
+INV_067,SparkFund,Corporate VC,Boston,E-commerce;EdTech,3721265,159124816,296,2022,Series A;Series B;Seed
+INV_068,FutureInvestment,Angel Network,Los Angeles,Web3;Gaming,4001992,78361150,181,1981,Seed
+INV_069,SparkLabs,Angel Network,Tokyo,CleanTech;HealthTech,4716776,62385771,99,2021,Series A;Series B
+INV_070,ApexInnovation,Angel,Boston,AI;Fintech,470484,3942633,255,2019,Seed
+INV_071,ZenithGrowth,Accelerator,Beijing,Web3;Mobility;E-commerce;Fintech,151024,554476,41,1994,Seed;Series B;Series D
+INV_072,NextGrowth,VC,Toronto,CleanTech;HealthTech,1420541,92034107,9,1999,Seed
+INV_073,SummitCapital,Angel,Paris,CleanTech;5G,292867,2151149,131,2015,Seed;Series C
+INV_074,PeakHoldings,Corporate VC,Mountain View,CleanTech;FoodTech;HealthTech;IoT,5784322,177264811,286,1981,Series B;Series C
+INV_075,ImpactLabs,Angel,Singapore,IoT;Mobility,280430,3617080,133,1987,Series D
+INV_076,ZenithGrowth,Angel Network,Mountain View,SaaS;AI;HealthTech;E-commerce,1923474,30066504,193,2006,Series D;Series B
+INV_077,HorizonHoldings,VC,Tel Aviv,Web3;SaaS;5G;Gaming,615942,16404722,34,2012,Series C
+INV_078,VisionGroup,Corporate VC,Chicago,Mobility;AI,7706337,163499781,125,1981,Series B;Series D
+INV_079,RiseInnovation,VC,Berlin,EdTech;HealthTech,4383782,8718243,116,2006,Series C
+INV_080,PrimeInnovation,Corporate VC,Singapore,Fintech;Web3;FoodTech,6921153,154546898,30,2003,Series A
+INV_081,QuantumInvestment,Angel,Palo Alto,E-commerce;SaaS;EdTech,105542,1874271,69,1987,Series C;Series B;Seed
+INV_082,ZenithCapital,Corporate VC,Boston,FoodTech;Mobility,9012030,68899819,170,1987,Series D
+INV_083,HorizonLabs,Accelerator,London,Fintech;E-commerce;EdTech;Mobility,71896,452735,290,1997,Series D
+INV_084,SparkCapital,Angel Network,Mountain View,Web3;SaaS,2810750,66298827,290,2011,Seed;Series C
+INV_085,DeltaPartners,Angel Network,Los Angeles,Fintech;Mobility;Gaming;5G,4169655,26822020,51,1990,Series C
+INV_086,QuantumLabs,Corporate VC,Seattle,CleanTech;SaaS;Web3,6659142,10038910,179,2002,Series A;Series D
+INV_087,ApexCapital,Accelerator,Montreal,EdTech;FoodTech;Mobility,111735,443156,189,1984,Series D;Series A
+INV_088,ApexVentures,Corporate VC,Atlanta,5G;EdTech,6228701,103079085,13,1982,Series A;Seed;Series D
+INV_089,DeltaGrowth,Angel Network,Tokyo,FoodTech;EdTech;Fintech;E-commerce,4907307,70456962,79,2022,Series D
+INV_090,HorizonHoldings,Corporate VC,Mountain View,AI;HealthTech;5G;Gaming,3944979,185648121,47,2022,Series B
+INV_091,FutureFund,Angel Network,Mountain View,FoodTech;Gaming,2041376,22607264,260,1996,Series C;Seed;Series A
+INV_092,NexusVentures,VC,Mountain View,EdTech;SaaS;HealthTech;5G,725556,17273845,37,1983,Series D;Seed;Series B
+INV_093,DeltaInnovation,VC,New York,Fintech;AI;CleanTech,1280945,37234961,129,1989,Series A;Series C
+INV_094,ZenithInnovation,Corporate VC,Dublin,HealthTech;IoT;SaaS;AI,6105032,110357820,200,1994,Series B;Seed;Series D
+INV_095,RiseEquity,Angel,Tel Aviv,Fintech;HealthTech,391364,4715688,89,1991,Series A;Seed
+INV_096,SummitGrowth,VC,Atlanta,HealthTech;AI;SaaS,871641,79837151,205,2010,Series B;Series D;Series C
+INV_097,GammaCollective,Accelerator,Palo Alto,FoodTech;Web3;SaaS;CleanTech,133965,765208,128,2009,Series C;Seed;Series B
+INV_098,NextVentures,VC,Berlin,5G;AI;SaaS;HealthTech,3847439,32389694,85,2006,Series A
+INV_099,ImpactGrowth,VC,Austin,IoT;FoodTech;5G,1551469,43363133,117,2008,Series B
+INV_100,NextEquity,Angel,Los Angeles,HealthTech;SaaS;FoodTech;Web3,274968,2179881,199,1991,Series B;Seed
+INV_101,GammaHoldings,Angel,Berlin,IoT;SaaS;5G;AI,74473,3856741,168,1984,Series A;Series B
+INV_102,PeakLabs,Accelerator,Stockholm,EdTech;Gaming,192945,297253,160,1994,Series A
+INV_103,PrimePartners,Angel Network,Austin,5G;EdTech,1671431,8545170,272,2000,Seed;Series A
+INV_104,StellarCapital,Corporate VC,London,EdTech;AI;HealthTech,8069300,79249248,259,1987,Series B;Series A;Series C
+INV_105,PrimeCapital,Accelerator,Shanghai,Web3;CleanTech,135902,812389,204,1982,Series C
+INV_106,FutureFund,Accelerator,Singapore,Mobility;IoT;FoodTech;Gaming,86101,905578,10,1985,Series D;Series C
+INV_107,HorizonCapital,Angel,Boston,FoodTech;HealthTech;Fintech;5G,196339,4859510,184,2011,Series B;Seed
+INV_108,BetaHoldings,Accelerator,Denver,E-commerce;Gaming;HealthTech;Fintech,215938,491554,24,2021,Series A
+INV_109,RiseCollective,Corporate VC,New York,Web3;Mobility,3684587,173784090,95,1984,Series B;Seed;Series A
+INV_110,NexusVentures,Angel Network,Los Angeles,E-commerce;Web3;Mobility;FoodTech,4132093,54602914,46,2013,Series B;Series C;Series A
+INV_111,FutureInvestment,Angel Network,Toronto,AI;CleanTech,2650026,75962069,46,1993,Series C;Series A
+INV_112,HorizonCollective,Accelerator,Chicago,Web3;AI;Fintech,133841,800755,267,1995,Series A;Series B
+INV_113,DeltaGrowth,VC,Palo Alto,Fintech;IoT;FoodTech,3924889,5493754,113,2003,Series A
+INV_114,PeakCapital,Accelerator,Shanghai,Fintech;IoT;Web3,85784,386288,234,2003,Series D;Seed;Series B
+INV_115,HorizonInnovation,Angel Network,San Francisco,Web3;5G;AI;IoT,4081125,25875925,281,2012,Series A
+INV_116,StellarCapital,VC,Toronto,HealthTech;Web3;5G,2634898,62214958,8,2017,Series A
+INV_117,StellarFund,VC,Boston,IoT;HealthTech;AI,774688,48209043,67,2007,Series D
+INV_118,NexusPartners,Angel,Mountain View,IoT;AI;Fintech;5G,42753,1864198,154,2007,Series B;Series C
+INV_119,DeltaGrowth,VC,Shanghai,EdTech;Fintech;E-commerce,1277852,26625800,121,1987,Series C
+INV_120,VertexHoldings,Corporate VC,Montreal,EdTech;E-commerce;Web3,4520709,72775289,57,2019,Series A;Series D
+INV_121,SparkPartners,Accelerator,Montreal,E-commerce;EdTech;CleanTech,207931,647925,107,2003,Series C;Series B;Series A
+INV_122,HorizonHoldings,Angel Network,Montreal,HealthTech;EdTech,601171,72361546,148,1992,Seed;Series D;Series A
+INV_123,ImpactCollective,Accelerator,Menlo Park,EdTech;IoT;Mobility,189156,391546,94,2017,Seed;Series D
+INV_124,AlphaVentures,Angel Network,Denver,FoodTech;AI,3211724,28071368,144,2007,Seed;Series D;Series A
+INV_125,QuantumPartners,Angel Network,Singapore,FoodTech;CleanTech;SaaS,3539348,67978566,109,2020,Seed
+INV_126,QuantumGrowth,VC,Los Angeles,FoodTech;HealthTech;5G,4231449,33301710,269,2013,Series D
+INV_127,GammaInnovation,Accelerator,San Francisco,IoT;Fintech;FoodTech;HealthTech,202686,889011,241,1992,Series C;Series B;Series D
+INV_128,VertexEquity,Corporate VC,Chicago,Gaming;AI,8982508,27133360,292,2014,Seed;Series D
+INV_129,ApexInnovation,Corporate VC,Menlo Park,Web3;Gaming;E-commerce;HealthTech,6854492,91987558,114,2004,Series A;Seed;Series D
+INV_130,SummitLabs,Angel,New York,Gaming;IoT;E-commerce,368564,2015534,250,1995,Seed
+INV_131,PrimePartners,Angel,Mountain View,E-commerce;EdTech,291484,3597416,94,1996,Series B;Series C;Series D
+INV_132,QuantumVentures,Angel,London,Mobility;Fintech;FoodTech,306177,754057,49,2008,Series C;Seed;Series B
+INV_133,ApexCapital,Accelerator,Austin,AI;HealthTech;Gaming;EdTech,85191,871204,235,1997,Series A;Series C
+INV_134,AlphaEquity,Angel Network,Austin,SaaS;Mobility;AI;CleanTech,4234889,65125421,257,2012,Series A;Series C
+INV_135,SparkEquity,VC,Dublin,HealthTech;SaaS,4648323,12417782,258,1998,Series D
+INV_136,QuantumFund,Angel Network,Seattle,EdTech;SaaS,2314502,74563561,166,2020,Seed;Series C;Series B
+INV_137,BetaCapital,Corporate VC,Chicago,Web3;CleanTech;Gaming,5323886,50105217,215,2018,Series C
+INV_138,AlphaCapital,Angel Network,Mumbai,5G;HealthTech;Gaming;E-commerce,3869943,54010286,14,2019,Seed
+INV_139,GammaInvestment,Angel,Jerusalem,AI;E-commerce,245055,2510699,89,2007,Series D;Series A
+INV_140,ZenithInnovation,Angel Network,Jerusalem,E-commerce;EdTech;SaaS,683470,16003702,14,2016,Seed;Series B;Series C
+INV_141,NextGroup,Angel Network,Los Angeles,CleanTech;5G;E-commerce;Web3,4775724,24291517,126,1990,Series A;Seed
+INV_142,ApexPartners,Accelerator,Miami,FoodTech;EdTech;Web3,110087,515979,296,1982,Series B;Series A;Series D
+INV_143,BetaVentures,VC,Stockholm,CleanTech;IoT;Fintech;EdTech,3110250,17258438,90,2023,Series D
+INV_144,SummitVentures,Corporate VC,Toronto,FoodTech;AI,2442896,110989298,279,1985,Series D;Series A;Series B
+INV_145,HorizonInnovation,Corporate VC,Menlo Park,CleanTech;Gaming;SaaS;FoodTech,8089192,107003351,196,1993,Series A
+INV_146,NexusLabs,Accelerator,Mumbai,5G;E-commerce,211888,503871,131,2006,Series D;Series C
+INV_147,DeltaGroup,Accelerator,Shanghai,EdTech;AI,222812,936795,10,2003,Series A;Seed;Series B
+INV_148,GammaInvestment,Angel,Tel Aviv,IoT;Gaming;Mobility,173214,4244553,104,2023,Series A;Series D
+INV_149,VertexInnovation,Angel Network,Jerusalem,AI;Gaming;Fintech;HealthTech,1669529,89508161,290,2001,Series D;Series A
+INV_150,GammaPartners,Angel,Beijing,Fintech;5G;EdTech,179983,1396461,99,2001,Series D;Seed
+INV_151,StellarHoldings,Corporate VC,Dublin,AI;FoodTech;SaaS,6766958,113931882,260,1987,Series C;Series A
+INV_152,HorizonFund,Angel Network,Palo Alto,CleanTech;Fintech;FoodTech;SaaS,4730970,57979779,35,2009,Series A;Series B;Series C
+INV_153,DeltaGroup,Angel,Austin,Fintech;Web3,184959,4205548,257,1997,Series C;Series D
+INV_154,ApexInnovation,Corporate VC,Boston,EdTech;E-commerce;IoT;FoodTech,9908136,157000992,67,1987,Series C;Series B;Seed
+INV_155,AlphaLabs,VC,Berlin,IoT;FoodTech;CleanTech,4958077,45857113,42,1980,Seed;Series C
+INV_156,HorizonInvestment,VC,Paris,Gaming;E-commerce;SaaS;Fintech,3243727,24047944,56,1990,Seed;Series C;Series A
+INV_157,RiseInvestment,Corporate VC,Jerusalem,EdTech;HealthTech;CleanTech,9983691,14557012,88,2016,Series C
+INV_158,QuantumVentures,VC,Chicago,FoodTech;Web3;IoT;Gaming,4210112,30232138,113,2016,Series B;Series A;Series D
+INV_159,FutureCollective,Angel Network,Palo Alto,E-commerce;CleanTech;FoodTech,1373273,58346833,14,1982,Series B;Series C
+INV_160,PrimeLabs,Corporate VC,Menlo Park,CleanTech;AI;IoT,8151838,58179714,59,2005,Series C
+INV_161,VertexCollective,Corporate VC,Montreal,EdTech;Fintech,5312002,57853627,127,2000,Seed;Series D
+INV_162,HorizonEquity,Angel,Tel Aviv,FoodTech;Mobility;Fintech,420419,2584170,269,2021,Series A;Series D
+INV_163,AlphaGroup,Corporate VC,Tokyo,Fintech;5G,7958152,137345490,274,2010,Series D;Series C;Series B
+INV_164,ApexInvestment,Angel,Paris,IoT;Web3,476278,788434,155,2015,Series C;Series D;Seed
+INV_165,SummitLabs,Corporate VC,Miami,HealthTech;Web3,5294633,27865934,120,2002,Series D;Series B;Series C
+INV_166,NexusEquity,VC,Dublin,Mobility;E-commerce,4752888,88221226,97,2020,Series B;Series C;Series D
+INV_167,QuantumInvestment,VC,Seattle,Gaming;EdTech,4472251,61630722,260,2000,Series D;Series B;Seed
+INV_168,StellarVentures,Accelerator,Stockholm,SaaS;Web3;IoT,55315,664821,167,1996,Series A
+INV_169,VertexEquity,Angel Network,Paris,Mobility;Gaming;5G;IoT,3379636,10832776,193,2013,Seed;Series C
+INV_170,SparkHoldings,VC,New York,SaaS;IoT;FoodTech;CleanTech,1368511,19021054,56,2006,Series B;Series A
+INV_171,SummitLabs,Angel,Seattle,E-commerce;Web3;EdTech;HealthTech,464178,4690185,71,1984,Seed;Series A;Series B
+INV_172,AlphaLabs,Angel Network,Montreal,Mobility;CleanTech,3966764,75144514,59,1991,Seed
+INV_173,VertexCapital,VC,Tokyo,Fintech;5G;EdTech,4812594,66770504,7,1990,Series D;Series B;Seed
+INV_174,PeakGrowth,VC,Paris,Web3;Fintech;IoT,3314193,32113708,123,1984,Series D
+INV_175,ImpactGroup,Corporate VC,Dublin,Mobility;5G;HealthTech;FoodTech,4886363,171212014,294,1987,Series A;Seed
+INV_176,DeltaInvestment,VC,Tel Aviv,Gaming;HealthTech,1405848,74945210,198,1991,Series B;Seed;Series A
+INV_177,FutureHoldings,Accelerator,San Francisco,5G;FoodTech;CleanTech,66694,658095,96,1984,Series B
+INV_178,BetaPartners,VC,Bangalore,Gaming;HealthTech,2657561,75752247,96,1986,Series B;Series A;Seed
+INV_179,NexusHoldings,VC,Atlanta,Mobility;AI;IoT,2860089,14076865,262,2013,Series B
+INV_180,EmergeInvestment,Angel Network,San Francisco,AI;SaaS,538758,47797028,266,2001,Series B;Seed
+INV_181,ApexCollective,Angel,Mumbai,CleanTech;FoodTech,27283,1628150,289,1999,Series A;Series C;Seed
+INV_182,NexusVentures,VC,Toronto,5G;EdTech;AI,4625114,61841685,154,1982,Series C
+INV_183,PrimeGrowth,Accelerator,Paris,FoodTech;Web3;EdTech,62474,882604,251,1987,Series C;Series A
+INV_184,GammaGrowth,Angel Network,Tokyo,Mobility;Web3;SaaS;EdTech,2463782,98285633,203,2002,Series D
+INV_185,BetaEquity,Angel Network,Bangalore,Web3;EdTech;Gaming;E-commerce,2793767,50193237,200,1987,Series A
+INV_186,BetaCapital,Accelerator,Boston,Web3;CleanTech;5G,225227,396715,225,2016,Series B;Series D;Series A
+INV_187,GammaGrowth,VC,San Francisco,HealthTech;SaaS;E-commerce,3924518,25121997,154,2016,Series A;Series C
+INV_188,BetaInvestment,Accelerator,Boston,Gaming;Mobility,171697,474509,31,1999,Series A
+INV_189,SparkFund,Accelerator,Stockholm,EdTech;Mobility;Gaming;IoT,135891,904288,101,1986,Series C;Seed
+INV_190,DeltaVentures,Accelerator,Atlanta,5G;SaaS,74794,925393,241,1981,Seed
+INV_191,StellarPartners,VC,Berlin,FoodTech;Fintech;Gaming;EdTech,4372040,79837090,122,1995,Seed
+INV_192,VisionVentures,Angel Network,Berlin,Web3;E-commerce;IoT,2772398,26588196,280,1981,Series D;Series C;Seed
+INV_193,FutureGroup,VC,Denver,FoodTech;Web3;IoT,1767640,17143325,11,1993,Series A
+INV_194,VisionCollective,VC,Berlin,FoodTech;IoT;E-commerce,3457330,86675084,185,1986,Series C;Seed
+INV_195,NextHoldings,Corporate VC,Denver,Fintech;Mobility,2742103,181071649,141,1992,Seed
+INV_196,NextInnovation,Angel Network,New York,IoT;FoodTech;HealthTech,1272661,77526099,223,2007,Series B;Series D;Series A
+INV_197,VertexLabs,Angel Network,Beijing,IoT;Web3;SaaS;Mobility,4655089,13955644,205,2016,Series A;Seed
+INV_198,AlphaLabs,VC,Seattle,Fintech;5G;IoT;EdTech,617940,28799938,83,1996,Series C
+INV_199,PeakEquity,Accelerator,Miami,Fintech;AI;EdTech;CleanTech,129405,850675,223,2002,Series C;Series B;Seed
+INV_200,NextVentures,Angel Network,Jerusalem,AI;CleanTech;Gaming;Fintech,1614510,40873584,227,1993,Series A;Series D;Series C
+INV_201,VertexGrowth,Angel,Dublin,5G;E-commerce,360589,3390792,299,2017,Seed;Series C;Series D
+INV_202,ZenithInnovation,Angel Network,Dublin,E-commerce;CleanTech;Fintech,1586375,47109259,253,2000,Series A;Series B;Series C
+INV_203,StellarGroup,VC,Mumbai,E-commerce;5G;Gaming;Mobility,1206246,70854413,150,2010,Series A;Series C
+INV_204,DeltaHoldings,VC,Boston,E-commerce;AI;IoT,1465661,58715835,155,1981,Series C;Series B;Series D
+INV_205,GammaLabs,Angel,Denver,SaaS;5G;Web3,153129,3690613,173,2023,Series A;Series D
+INV_206,StellarEquity,Angel Network,Chicago,HealthTech;IoT,4656822,88969392,231,1998,Series A
+INV_207,GammaLabs,Corporate VC,Singapore,Fintech;IoT;Gaming,7658933,67391097,40,1995,Series C
+INV_208,VertexCollective,Accelerator,Mountain View,Gaming;HealthTech,199023,386381,50,1996,Series B;Seed
+INV_209,EmergeLabs,Corporate VC,Singapore,EdTech;FoodTech;Web3;SaaS,7910344,71768147,255,1984,Series B
+INV_210,AlphaVentures,Angel,Austin,EdTech;Gaming;CleanTech,38507,1195983,247,1992,Series C
+INV_211,SparkGroup,Angel,Toronto,Web3;Fintech;CleanTech;FoodTech,133705,3347384,166,2018,Series D;Series B
+INV_212,QuantumVentures,VC,Austin,HealthTech;IoT,4785116,52775436,229,2003,Series C
+INV_213,StellarCapital,Accelerator,Menlo Park,Web3;E-commerce,235297,888634,56,1984,Series A;Series D;Series B
+INV_214,NexusGroup,Accelerator,Austin,E-commerce;5G;AI,81554,621687,205,1993,Series A;Series B
+INV_215,BetaVentures,Angel Network,Paris,5G;E-commerce;SaaS,1085973,15932419,102,2014,Series A;Series B
+INV_216,ZenithFund,Angel Network,Los Angeles,HealthTech;Mobility;Web3,2539515,59874948,228,2018,Series D
+INV_217,GammaCapital,Angel Network,Seattle,AI;SaaS;Web3,4158914,48898406,175,1980,Series B;Series D;Series A
+INV_218,PeakEquity,VC,Dublin,SaaS;Gaming,524251,29176124,21,1988,Series C;Series A
+INV_219,SparkVentures,Angel,Bangalore,Mobility;IoT;Web3,67927,2282090,198,2021,Series A;Series D
+INV_220,NexusHoldings,Accelerator,Boston,E-commerce;SaaS;AI;HealthTech,68407,657536,147,1986,Series C;Series D
+INV_221,NextPartners,Accelerator,London,Web3;EdTech,84300,622579,109,1983,Series A;Series C
+INV_222,SummitLabs,Angel Network,Austin,Fintech;EdTech,3242138,74567626,235,2008,Seed
+INV_223,VertexCollective,Angel Network,Mumbai,SaaS;IoT,2701336,90274969,183,1989,Series C
+INV_224,StellarPartners,VC,Berlin,HealthTech;Web3,3619041,5000397,28,1991,Seed;Series D
+INV_225,FutureInnovation,Angel,San Francisco,IoT;Gaming,226124,3035112,212,2002,Series C;Series D;Seed
+INV_226,PrimeFund,Accelerator,Miami,Mobility;Gaming,203931,543725,287,2022,Series C;Seed
+INV_227,VisionInvestment,Angel,London,E-commerce;CleanTech;FoodTech,382452,3744800,149,2005,Series C;Seed;Series B
+INV_228,ApexInnovation,Angel Network,Miami,AI;Mobility,1678513,98906316,107,1980,Series D
+INV_229,ZenithGroup,Angel,New York,Fintech;FoodTech;EdTech,437979,4145618,230,1985,Series D
+INV_230,AlphaGrowth,Angel Network,Chicago,Fintech;SaaS;Web3,4027415,95884103,212,1989,Series C
+INV_231,PeakLabs,Corporate VC,London,FoodTech;Mobility;IoT;Fintech,4960163,91808495,300,2020,Series A;Series D;Seed
+INV_232,SparkInnovation,VC,Palo Alto,EdTech;E-commerce;Gaming;SaaS,2431953,96837201,173,2023,Series B;Seed
+INV_233,DeltaGrowth,Angel,Berlin,IoT;AI,404279,2889024,133,1995,Seed;Series D;Series C
+INV_234,EmergeLabs,Accelerator,Denver,CleanTech;HealthTech,67246,801149,228,2016,Series B;Series C
+INV_235,ApexEquity,Corporate VC,Austin,AI;IoT;E-commerce,2808804,194947971,247,2013,Series D;Series C;Series A
+INV_236,StellarFund,Angel,Shanghai,Mobility;IoT,316565,1316867,259,2016,Series B;Series A;Seed
+INV_237,RiseFund,Corporate VC,Stockholm,AI;E-commerce;Mobility;5G,4380837,46453969,124,2005,Series B
+INV_238,QuantumLabs,Angel Network,Berlin,EdTech;CleanTech,2817743,97020961,210,2004,Series A;Seed;Series D
+INV_239,QuantumFund,Angel,Boston,CleanTech;E-commerce;Gaming;HealthTech,178344,3088491,238,1996,Series C
+INV_240,SummitInvestment,VC,Atlanta,IoT;Web3;HealthTech;E-commerce,924497,40231365,234,2009,Seed
+INV_241,FutureLabs,VC,Mountain View,Fintech;IoT;SaaS,4953644,74734766,63,1999,Seed;Series C;Series B
+INV_242,QuantumPartners,Corporate VC,San Francisco,HealthTech;SaaS;Mobility,9567735,189881827,222,2017,Series B
+INV_243,GammaFund,VC,Montreal,IoT;Mobility;EdTech;Web3,956152,45967801,35,2013,Series C
+INV_244,VertexEquity,Angel Network,Montreal,Mobility;AI,3566247,8682126,154,2003,Series D;Series C
+INV_245,VisionGrowth,Accelerator,Bangalore,5G;Gaming,178520,909217,224,2015,Series B
+INV_246,EmergeCapital,Corporate VC,Singapore,Web3;Fintech;CleanTech;AI,2792907,23593162,161,2017,Series A;Series D;Seed
+INV_247,NexusLabs,VC,San Francisco,SaaS;FoodTech,1716152,75443073,11,2013,Series D
+INV_248,AlphaCollective,Corporate VC,Tel Aviv,SaaS;HealthTech;Web3,3017063,75185628,35,1998,Series D;Series A;Series C
+INV_249,FutureGroup,VC,Bangalore,Gaming;EdTech,2855758,25759845,28,1983,Series D;Seed
+INV_250,RiseVentures,Angel Network,Tel Aviv,FoodTech;5G;E-commerce;AI,3359270,67427771,49,2006,Series B
+INV_251,DeltaVentures,Angel,Atlanta,IoT;HealthTech;Fintech,187100,1721465,92,2008,Series B;Seed;Series A
+INV_252,NextEquity,Angel Network,London,Web3;EdTech,2487851,94344446,110,2018,Series A;Seed;Series D
+INV_253,ApexGrowth,Angel Network,Bangalore,AI;Mobility,700283,76957689,298,1982,Series C;Series D
+INV_254,NexusInvestment,Angel Network,New York,FoodTech;HealthTech;IoT,2009385,37791326,258,1992,Series C
+INV_255,ImpactCollective,Angel,Amsterdam,Fintech;Web3,365159,1189107,144,2014,Seed;Series A;Series B
+INV_256,PeakCollective,Angel Network,Palo Alto,5G;Fintech;FoodTech,4345807,61149266,121,2009,Series A;Series D
+INV_257,AlphaGroup,Corporate VC,Seattle,SaaS;CleanTech;Mobility;Gaming,6852573,10122044,241,1981,Series A;Series D;Seed
+INV_258,HorizonCapital,Corporate VC,London,Mobility;5G,4058362,176467247,232,2015,Series B
+INV_259,SparkInnovation,VC,Mumbai,Gaming;CleanTech,674197,88755961,226,2003,Series C
+INV_260,FutureHoldings,Corporate VC,San Francisco,Fintech;CleanTech;E-commerce,5121157,144731695,294,1992,Series B;Series D;Seed
+INV_261,SparkInvestment,Angel,Berlin,5G;AI;Mobility;IoT,207691,1929764,256,1982,Series B
+INV_262,SummitHoldings,Corporate VC,Palo Alto,Fintech;EdTech;FoodTech;Web3,6092163,76562988,298,1991,Series D
+INV_263,StellarFund,Accelerator,Palo Alto,EdTech;SaaS;FoodTech,238555,402826,233,2009,Series C;Series D;Seed
+INV_264,StellarEquity,Corporate VC,Toronto,E-commerce;Fintech;EdTech,6825158,61667693,233,1994,Series C;Seed
+INV_265,ApexPartners,Angel Network,Tel Aviv,EdTech;Web3;SaaS;Gaming,4291506,11628280,280,1994,Series A
+INV_266,SparkLabs,Accelerator,Berlin,FoodTech;5G;EdTech,116085,469480,58,2009,Series D
+INV_267,PeakGroup,Angel Network,New York,CleanTech;Fintech,3113574,49546039,94,1993,Series B;Series D
+INV_268,ImpactEquity,Accelerator,Austin,Fintech;FoodTech,229200,866743,257,2001,Seed
+INV_269,FutureFund,Angel Network,Amsterdam,IoT;E-commerce;Gaming;HealthTech,3400246,86672594,30,2001,Series A
+INV_270,ZenithInnovation,Accelerator,Stockholm,CleanTech;SaaS;IoT,54863,274377,29,1984,Series B;Series D
+INV_271,DeltaInnovation,Angel,New York,IoT;SaaS;CleanTech,359458,4905199,118,2010,Series D;Series A
+INV_272,NextCapital,Angel Network,Denver,FoodTech;Fintech;IoT,1261714,50182954,25,2021,Series A;Seed;Series B
+INV_273,VertexInvestment,VC,Miami,FoodTech;5G,1156553,31229106,229,2016,Series C;Series B
+INV_274,StellarLabs,Accelerator,Toronto,E-commerce;AI;SaaS,188848,605593,181,1989,Seed
+INV_275,BetaHoldings,Angel,Boston,5G;Fintech;E-commerce,464256,1342403,105,2022,Series A
+INV_276,HorizonCapital,VC,Singapore,Mobility;Fintech;IoT;5G,4840103,21895731,67,2018,Series A;Seed
+INV_277,RiseCapital,VC,London,5G;AI,4074202,99200972,217,1989,Series B;Seed;Series C
+INV_278,ZenithGroup,Corporate VC,San Francisco,SaaS;IoT,8874471,59836880,111,1996,Series B
+INV_279,SummitHoldings,Corporate VC,Stockholm,CleanTech;AI;Gaming;FoodTech,4933889,193720734,295,2007,Series C;Series D
+INV_280,QuantumLabs,Angel Network,New York,SaaS;AI;Mobility,4991076,96218894,95,1981,Series A
+INV_281,EmergeHoldings,Accelerator,Miami,Mobility;CleanTech;E-commerce,93863,478063,246,1982,Series C;Series A;Series B
+INV_282,ImpactEquity,Angel,Denver,HealthTech;E-commerce;Fintech,91011,1723562,276,2011,Series C
+INV_283,RiseGrowth,Angel,Tel Aviv,Fintech;IoT;EdTech;5G,176568,4620029,31,1997,Series B;Series D
+INV_284,EmergeLabs,Angel Network,Amsterdam,Web3;SaaS,2586112,34803170,244,2010,Series C
+INV_285,GammaPartners,Accelerator,Amsterdam,Gaming;FoodTech;IoT;CleanTech,158533,589502,217,1994,Series C;Series B
+INV_286,AlphaInvestment,Accelerator,Atlanta,Gaming;IoT,232594,326190,282,2002,Seed;Series B
+INV_287,VisionCapital,Angel Network,Tel Aviv,Fintech;AI;IoT;5G,4589190,65342479,223,2019,Series B
+INV_288,AlphaGroup,Accelerator,Berlin,FoodTech;CleanTech;Web3;EdTech,195576,715222,136,1992,Series D;Seed
+INV_289,ApexFund,Accelerator,Beijing,IoT;E-commerce;EdTech,68242,821929,60,2018,Series B;Series C;Series A
+INV_290,AlphaVentures,VC,Seattle,HealthTech;IoT;Gaming,4216227,92314864,29,1988,Seed;Series C
+INV_291,ImpactGrowth,Angel Network,Boston,Gaming;AI,4315904,52321315,14,2010,Series D;Series B
+INV_292,ApexInvestment,Angel,Shanghai,IoT;Web3,398261,2801691,173,2015,Series B;Series A;Series D
+INV_293,EmergeInnovation,Angel,Singapore,Fintech;CleanTech;Gaming,209180,3398358,9,2003,Series D
+INV_294,BetaLabs,VC,Los Angeles,5G;E-commerce;Gaming;Mobility,824675,81692891,210,1998,Series B;Series A
+INV_295,HorizonEquity,Corporate VC,Beijing,Mobility;5G;EdTech,2245047,15543222,260,2007,Series B;Series D
+INV_296,DeltaCollective,Angel,Dublin,SaaS;EdTech;AI,332422,1252519,142,1985,Series A
+INV_297,HorizonEquity,VC,Denver,Web3;E-commerce,2691277,61686247,249,2008,Series B
+INV_298,BetaVentures,VC,Paris,FoodTech;E-commerce;EdTech;Gaming,3457682,38679245,80,2019,Series B;Series C;Series A
+INV_299,AlphaPartners,Corporate VC,Miami,AI;Mobility;IoT,8234367,20093451,78,2018,Series C;Seed;Series B
+INV_300,SummitLabs,Corporate VC,Chicago,IoT;FoodTech,2814789,134295179,81,1985,Series C;Series B
+INV_301,PeakCapital,Angel Network,Tokyo,5G;CleanTech;AI,3059614,60309609,109,1984,Series A;Series C
+INV_302,StellarVentures,VC,Los Angeles,IoT;E-commerce,3385171,29235154,198,2003,Seed;Series B;Series A
+INV_303,PrimeEquity,Angel Network,Shanghai,CleanTech;AI;5G,4297680,79810330,30,2020,Series C;Series A
+INV_304,PrimePartners,Accelerator,Denver,AI;Fintech;CleanTech;Mobility,98670,633535,78,2002,Series C;Series B;Series D
+INV_305,NextGroup,Angel Network,Shanghai,5G;Gaming,4906318,65092124,111,1998,Series B;Series D;Series C
+INV_306,SummitHoldings,VC,Stockholm,EdTech;E-commerce;CleanTech,2720477,13270207,267,2011,Series A;Series C
+INV_307,SummitCapital,VC,Amsterdam,Gaming;CleanTech;Fintech,2994982,88233378,235,1994,Seed;Series C
+INV_308,HorizonCollective,Angel,Denver,HealthTech;IoT;CleanTech;SaaS,322923,1533648,242,2021,Series B;Series A
+INV_309,BetaGrowth,VC,Shanghai,5G;E-commerce;CleanTech,4649119,93244779,175,2001,Series A
+INV_310,AlphaFund,Angel Network,Toronto,IoT;AI;EdTech;Gaming,2521785,38975127,292,2004,Seed
+INV_311,GammaPartners,VC,Boston,SaaS;Fintech,1858131,53811272,233,1987,Series A
+INV_312,SummitInnovation,VC,Mumbai,EdTech;AI;E-commerce,3042930,21903873,70,2016,Series A
+INV_313,PrimeGroup,VC,Tokyo,SaaS;5G,3073352,54850136,131,1985,Series B;Series C
+INV_314,PeakVentures,VC,Palo Alto,FoodTech;EdTech,4000306,49654348,169,2001,Series C;Series A
+INV_315,SparkLabs,VC,Dublin,SaaS;Web3,763744,35817935,293,2010,Seed;Series B
+INV_316,HorizonPartners,VC,London,SaaS;Fintech;E-commerce,2360941,31105412,172,1983,Series A;Seed;Series B
+INV_317,BetaCollective,Corporate VC,Tokyo,HealthTech;Fintech;Mobility;IoT,4195018,123193695,241,1982,Seed;Series B
+INV_318,SummitInvestment,VC,Toronto,IoT;Mobility;FoodTech,2127046,46021031,8,1997,Series A;Series B
+INV_319,NextPartners,Corporate VC,Berlin,E-commerce;HealthTech;IoT,2059348,170529874,62,2011,Series B;Seed
+INV_320,SparkPartners,Angel Network,Paris,IoT;Mobility,726775,26385828,259,1991,Seed
+INV_321,EmergeLabs,Accelerator,Bangalore,Web3;Fintech,63527,778142,197,2000,Series A
+INV_322,NextGroup,VC,Mountain View,5G;Web3,2977902,80236395,74,1985,Seed;Series D;Series A
+INV_323,GammaInnovation,Angel,Seattle,Gaming;CleanTech,404506,1475917,35,1996,Seed;Series B;Series A
+INV_324,QuantumInvestment,Corporate VC,Bangalore,Mobility;EdTech,2250206,44538029,80,1999,Series D;Series B
+INV_325,HorizonGrowth,VC,Beijing,Mobility;Web3;5G,4134416,52497139,268,1999,Series A;Series D
+INV_326,NexusHoldings,Angel Network,Tokyo,Web3;Mobility;SaaS,1463905,87514707,94,2017,Series C;Seed
+INV_327,PeakCollective,Corporate VC,Tokyo,Mobility;E-commerce;Gaming,5989355,71448464,38,1990,Series C
+INV_328,EmergeInvestment,Angel Network,Singapore,Web3;HealthTech;EdTech,578106,17248921,265,2003,Series B;Series A
+INV_329,ImpactHoldings,Angel,Mumbai,Web3;Gaming;AI;IoT,121616,3833222,244,2016,Series C;Series A;Series B
+INV_330,FutureGrowth,Angel Network,Chicago,SaaS;AI,3013813,7305991,297,2008,Seed;Series B;Series A
+INV_331,ApexInvestment,Accelerator,Palo Alto,Gaming;EdTech;CleanTech;E-commerce,75864,789756,59,2001,Series C
+INV_332,ZenithGrowth,Angel Network,Seattle,Mobility;Gaming;5G,2869901,34518672,80,1982,Series B;Series A
+INV_333,VertexPartners,Angel Network,Los Angeles,Fintech;CleanTech;EdTech,600250,6394712,112,1982,Series B;Series C;Series D
+INV_334,EmergeVentures,Angel Network,Beijing,EdTech;IoT;FoodTech,1264442,70831225,65,2002,Series D;Seed
+INV_335,NextInnovation,VC,Chicago,5G;Fintech;Gaming;HealthTech,3951821,80069080,171,2008,Series D
+INV_336,VertexLabs,Angel,Singapore,5G;Web3,245173,4472525,231,1988,Series B;Series D
+INV_337,BetaEquity,Corporate VC,San Francisco,Fintech;5G,7551772,25018659,41,1998,Series B;Series C
+INV_338,SparkLabs,Angel,Chicago,HealthTech;Web3,55679,1156978,43,2011,Series B;Seed
+INV_339,StellarCollective,VC,Austin,AI;Gaming;CleanTech,606054,31324960,86,1997,Series D;Series C
+INV_340,RisePartners,Angel,Shanghai,HealthTech;Fintech,40799,1397316,8,2009,Seed;Series C;Series D
+INV_341,AlphaLabs,Accelerator,Seattle,HealthTech;AI;CleanTech,190024,665513,111,2022,Seed
+INV_342,StellarEquity,Corporate VC,New York,AI;Web3;Gaming;IoT,4002819,160504259,253,1980,Series D;Series B
+INV_343,AlphaCapital,Accelerator,Tel Aviv,SaaS;Fintech;IoT,58241,698625,43,2017,Series B;Series C;Series A
+INV_344,BetaHoldings,Angel Network,Seattle,CleanTech;E-commerce;SaaS;HealthTech,2033135,77526462,26,2012,Series D;Seed;Series C
+INV_345,ApexGroup,Accelerator,Chicago,CleanTech;EdTech,238262,750250,268,1989,Series B
+INV_346,QuantumFund,Angel,Paris,SaaS;FoodTech;CleanTech;Web3,106171,3617816,96,2012,Seed
+INV_347,AlphaHoldings,Corporate VC,Menlo Park,SaaS;5G;FoodTech;IoT,6957586,133517256,128,1995,Series A;Series B;Series D
+INV_348,ImpactCollective,Corporate VC,Austin,Mobility;EdTech;5G;E-commerce,5580530,96460831,299,2010,Series B
+INV_349,DeltaCollective,Corporate VC,Mountain View,5G;HealthTech;Gaming,8729084,49211308,28,1994,Seed;Series B;Series D
+INV_350,HorizonLabs,VC,New York,Fintech;Mobility;CleanTech,3323258,47979985,8,2018,Series D
+INV_351,SparkInnovation,VC,Jerusalem,Gaming;AI;Fintech;FoodTech,2731932,69854971,64,2009,Series B
+INV_352,PrimeGroup,Angel,Paris,CleanTech;E-commerce,330447,1362263,7,1997,Series A
+INV_353,BetaEquity,Angel,Bangalore,CleanTech;AI,310829,960699,14,2006,Series A
+INV_354,BetaInvestment,Accelerator,Stockholm,IoT;E-commerce;Fintech,212541,440110,104,2011,Series C
+INV_355,NexusEquity,Angel Network,Palo Alto,FoodTech;SaaS;E-commerce;EdTech,2281943,25182415,171,1995,Series D
+INV_356,ZenithInnovation,Accelerator,New York,EdTech;Web3;FoodTech,165193,944640,209,1985,Seed
+INV_357,VisionInnovation,Angel Network,Amsterdam,CleanTech;E-commerce,1078121,79805960,265,1987,Series A;Series C;Series B
+INV_358,BetaPartners,Accelerator,Mountain View,SaaS;CleanTech;Mobility;Web3,93146,514161,27,1991,Seed;Series A
+INV_359,SummitCapital,Accelerator,Austin,HealthTech;Fintech;FoodTech;AI,90578,368131,236,2017,Series D;Series A
+INV_360,DeltaInnovation,Angel Network,Miami,E-commerce;EdTech,3936585,27510509,237,1989,Series A
+INV_361,PrimeFund,Accelerator,New York,IoT;Mobility;Fintech;FoodTech,167521,885269,270,2005,Series D;Series C
+INV_362,RiseVentures,Angel,Atlanta,IoT;EdTech;Fintech;Web3,183768,958798,247,1992,Series B
+INV_363,PeakGrowth,Angel,Los Angeles,IoT;5G,419780,740714,190,2021,Series D;Series B;Series C
+INV_364,StellarLabs,VC,Tel Aviv,Web3;HealthTech;Gaming;SaaS,3012772,99063220,75,1994,Series D;Series B
+INV_365,DeltaEquity,Angel Network,Mumbai,Gaming;Mobility;HealthTech,4507154,57000134,67,2019,Series C;Seed
+INV_366,EmergeInvestment,Angel,Shanghai,5G;Gaming,322180,1705838,91,2008,Series D
+INV_367,StellarLabs,Corporate VC,Bangalore,5G;Web3;IoT,6198480,64765952,121,1981,Series D;Series A;Seed
+INV_368,NextFund,VC,Denver,Web3;SaaS;HealthTech;FoodTech,1010164,73424518,15,2016,Series D
+INV_369,NexusInvestment,VC,Mountain View,CleanTech;HealthTech;5G;E-commerce,673809,51273879,127,1992,Seed;Series C
+INV_370,GammaInnovation,Accelerator,Toronto,HealthTech;5G;EdTech,123024,822948,54,1994,Series A;Series D
+INV_371,NexusHoldings,VC,Los Angeles,Web3;CleanTech,3815487,12188436,43,2019,Series C
+INV_372,BetaGrowth,Corporate VC,Jerusalem,HealthTech;EdTech;SaaS;Fintech,2910806,135230111,210,1980,Series A;Series B;Series C
+INV_373,VertexPartners,VC,London,HealthTech;EdTech,2726302,92535101,137,2002,Series B
+INV_374,ZenithHoldings,Corporate VC,Bangalore,E-commerce;Mobility,2414485,61349335,50,2006,Series A;Series C;Seed
+INV_375,EmergePartners,Angel Network,Jerusalem,Web3;AI;CleanTech;E-commerce,1307808,94363050,29,2004,Series D
+INV_376,FutureGrowth,Angel,Los Angeles,AI;FoodTech;5G,435780,1321771,244,2014,Series C;Series D
+INV_377,NextInnovation,Angel,Toronto,FoodTech;SaaS;Web3,143039,1115875,72,1993,Series A;Series B
+INV_378,HorizonFund,Corporate VC,Los Angeles,E-commerce;Web3,2327706,112731909,239,2018,Series D
+INV_379,EmergeFund,VC,Boston,AI;Mobility;Fintech,3928947,63719328,73,2016,Series A;Seed
+INV_380,ZenithFund,Accelerator,Beijing,Fintech;IoT,89793,740674,192,1988,Series D;Series A
+INV_381,BetaHoldings,VC,Beijing,Web3;5G;Mobility;FoodTech,2850336,99903026,282,2018,Series D;Series B
+INV_382,DeltaPartners,VC,Stockholm,AI;IoT;EdTech,4188119,82190786,233,1992,Series B
+INV_383,RiseFund,VC,Los Angeles,FoodTech;Gaming;Web3;SaaS,2873533,25358737,232,2014,Series C;Seed;Series B
+INV_384,DeltaCollective,Angel Network,Jerusalem,CleanTech;5G;Gaming,2598597,96947100,40,1991,Series D;Series B;Seed
+INV_385,VisionGrowth,Angel Network,Jerusalem,EdTech;E-commerce;Web3;IoT,2650136,79058755,213,2011,Series A;Series D
+INV_386,BetaEquity,Angel Network,Los Angeles,FoodTech;Web3,1007883,15762601,116,2010,Series C
+INV_387,GammaHoldings,Angel,San Francisco,Fintech;SaaS,170473,4875385,269,2000,Seed
+INV_388,RiseHoldings,VC,Boston,SaaS;Fintech,4878362,34703369,11,2009,Seed;Series A;Series D
+INV_389,SparkVentures,Angel,Tel Aviv,E-commerce;Fintech;Web3,450029,2614367,172,1996,Seed;Series D;Series A
+INV_390,FutureInvestment,VC,Paris,Gaming;FoodTech;SaaS;CleanTech,3771915,44905543,269,1987,Series A;Series D;Series C
+INV_391,BetaCapital,Corporate VC,Menlo Park,E-commerce;IoT,5427374,64315692,149,1987,Seed;Series C;Series D
+INV_392,GammaInvestment,VC,Jerusalem,Web3;5G;Mobility;Gaming,3388247,7852071,165,1980,Series D
+INV_393,StellarPartners,Angel Network,Tel Aviv,Gaming;Fintech;FoodTech;E-commerce,4484170,59669401,293,2017,Seed;Series A
+INV_394,PrimeCollective,Corporate VC,Boston,Web3;CleanTech;E-commerce;EdTech,2761847,90669305,194,1982,Series B
+INV_395,RiseCapital,VC,Mountain View,5G;Mobility;E-commerce,2691895,72478386,162,2010,Series B
+INV_396,QuantumFund,Angel,Paris,5G;Mobility;SaaS;E-commerce,84072,3901786,84,1983,Series D
+INV_397,FutureLabs,Angel,Menlo Park,SaaS;Fintech;CleanTech,461996,1409736,159,2006,Series B;Series C
+INV_398,PeakHoldings,VC,Beijing,Web3;AI;IoT;Gaming,4138262,48526742,114,1987,Seed;Series C;Series D
+INV_399,VertexEquity,Angel Network,Boston,IoT;E-commerce;Fintech,2414065,26857077,147,1994,Series A;Series D
+INV_400,BetaInnovation,Accelerator,Paris,AI;IoT,229143,510027,127,2008,Seed;Series C;Series D
+INV_401,NexusGroup,Angel Network,Seattle,HealthTech;SaaS;Mobility,3063713,68838955,269,2011,Seed;Series D
+INV_402,PrimeFund,Corporate VC,Boston,Fintech;AI;CleanTech;FoodTech,5623473,101013282,148,2019,Series B;Series C
+INV_403,ImpactPartners,VC,Toronto,IoT;Mobility;FoodTech;SaaS,1407223,31510887,155,1997,Series A
+INV_404,BetaEquity,Angel,Menlo Park,Mobility;CleanTech,27887,4747841,218,1982,Series C
+INV_405,ImpactFund,Angel Network,Bangalore,SaaS;FoodTech,4882909,99120580,295,2014,Series A;Series D;Series C
+INV_406,NextCollective,VC,Boston,FoodTech;Fintech,3183921,82936087,162,2007,Series A;Seed
+INV_407,PeakFund,Angel,Los Angeles,Fintech;Gaming,328684,3522367,298,1998,Series A;Seed
+INV_408,NextEquity,VC,Mountain View,EdTech;HealthTech;SaaS,4941608,23279022,85,2006,Series B;Series D;Seed
+INV_409,EmergeInvestment,Corporate VC,Denver,Fintech;Web3,2344383,144654174,94,1986,Seed;Series B
+INV_410,VisionHoldings,Angel,New York,HealthTech;Mobility;AI;E-commerce,207661,705485,108,2002,Seed
+INV_411,VertexFund,Angel,Chicago,E-commerce;Gaming,33971,4975893,220,1994,Seed;Series C;Series B
+INV_412,VertexInnovation,Angel Network,Montreal,E-commerce;IoT;Web3,4161827,83767640,121,2007,Series C;Series A;Seed
+INV_413,VertexHoldings,Corporate VC,Paris,Mobility;FoodTech,2222363,85507802,51,2007,Series C;Seed
+INV_414,NexusPartners,Corporate VC,Chicago,Mobility;AI;Gaming,4660429,117921710,220,2002,Series C
+INV_415,GammaCapital,Corporate VC,Boston,IoT;Fintech;Gaming;Web3,8434505,23398078,157,1987,Seed;Series B
+INV_416,FutureHoldings,Angel,Palo Alto,Mobility;CleanTech;FoodTech;EdTech,82484,1685030,103,2005,Series B;Seed;Series A
+INV_417,AlphaInnovation,Angel,Paris,E-commerce;Gaming,379517,4216809,7,1987,Seed
+INV_418,SummitVentures,Accelerator,London,5G;AI;SaaS;CleanTech,121610,476082,289,1999,Series B;Series D
+INV_419,RiseCapital,Accelerator,Miami,Fintech;FoodTech;IoT;Mobility,59530,427680,103,2009,Seed
+INV_420,RiseVentures,Angel Network,Atlanta,AI;Fintech,1807415,42370921,272,2011,Series A
+INV_421,EmergeGroup,VC,Bangalore,AI;SaaS;HealthTech,2493993,65975330,146,2009,Seed
+INV_422,QuantumCollective,Angel Network,Palo Alto,IoT;Fintech;Mobility,2812719,86486771,178,1988,Series B;Series C
+INV_423,DeltaVentures,Accelerator,Mountain View,E-commerce;EdTech;HealthTech,169971,662798,241,1999,Seed
+INV_424,NextInvestment,VC,Atlanta,CleanTech;FoodTech;5G,3656911,68656793,206,2013,Series C;Seed;Series A
+INV_425,DeltaInnovation,Corporate VC,Singapore,Fintech;FoodTech,9217582,161366335,252,2020,Series D;Series B
+INV_426,QuantumFund,Angel Network,Chicago,Gaming;FoodTech;HealthTech;5G,4646053,21196188,285,2013,Seed;Series D;Series A
+INV_427,DeltaGroup,Corporate VC,Palo Alto,EdTech;Mobility;E-commerce;CleanTech,5493942,193634938,11,1992,Seed;Series B;Series C
+INV_428,FutureInnovation,Accelerator,Amsterdam,Gaming;EdTech,103768,281184,123,2018,Series A
+INV_429,ZenithEquity,Angel Network,Los Angeles,5G;Web3;HealthTech,1225916,5347204,12,1983,Series A
+INV_430,BetaPartners,Accelerator,Palo Alto,Fintech;Web3;AI;EdTech,57795,605184,103,2018,Series D;Seed;Series B
+INV_431,RiseCollective,Angel,Atlanta,Gaming;AI;FoodTech;Fintech,182594,2038020,131,1991,Series B
+INV_432,ApexEquity,VC,Denver,Gaming;EdTech;Mobility,2340753,13946536,87,1995,Seed;Series C;Series A
+INV_433,ZenithVentures,Angel,Amsterdam,IoT;5G;Gaming;Mobility,240462,1873781,48,2002,Series D;Series B
+INV_434,VisionLabs,Corporate VC,Montreal,FoodTech;SaaS,7963784,120220584,286,1990,Series B;Series D
+INV_435,RiseFund,Corporate VC,Chicago,EdTech;Mobility;SaaS,4779354,183419550,286,1998,Series B
+INV_436,RiseInvestment,Accelerator,Seattle,Web3;5G;HealthTech,81133,660608,296,1985,Seed;Series B
+INV_437,EmergeVentures,Angel Network,Dublin,Web3;EdTech;Mobility;SaaS,4570447,34024109,177,2009,Series D;Series A
+INV_438,StellarVentures,Corporate VC,London,Gaming;HealthTech;Fintech,2809088,23061504,88,2009,Series D;Series B
+INV_439,QuantumInnovation,VC,Stockholm,E-commerce;Fintech;EdTech;5G,1280867,79820710,47,2008,Seed;Series D;Series A
+INV_440,HorizonGrowth,VC,Bangalore,E-commerce;EdTech,630127,24154055,9,1995,Series A;Seed
+INV_441,BetaGroup,Corporate VC,Singapore,Fintech;AI,3796935,157442147,58,2008,Series D;Series A;Series C
+INV_442,ImpactCollective,Accelerator,Miami,CleanTech;Gaming,69738,666917,140,2005,Series D;Seed
+INV_443,RiseGroup,Corporate VC,Stockholm,AI;Fintech;E-commerce,7947497,184311933,184,2004,Seed;Series A;Series D
+INV_444,VisionPartners,Accelerator,San Francisco,Mobility;SaaS;5G,57384,396226,131,1985,Seed;Series B;Series A
+INV_445,DeltaHoldings,Accelerator,Shanghai,FoodTech;SaaS;E-commerce;5G,114795,367851,213,2020,Seed;Series B;Series D
+INV_446,BetaGrowth,Angel Network,New York,Fintech;SaaS;AI;5G,4541695,60264496,114,2016,Series D;Series B;Series A
+INV_447,VisionGrowth,Angel,Mountain View,HealthTech;CleanTech;5G;E-commerce,389805,1017131,220,2023,Seed
+INV_448,SparkCapital,VC,San Francisco,EdTech;Gaming,2849508,83331960,99,2019,Series C
+INV_449,SummitInvestment,VC,Tel Aviv,EdTech;Fintech;AI,1387317,19813421,17,1993,Seed
+INV_450,VertexPartners,Accelerator,Jerusalem,IoT;E-commerce;Gaming,154928,908126,63,2016,Seed;Series C;Series D
+INV_451,VisionHoldings,Corporate VC,Atlanta,5G;CleanTech;FoodTech;SaaS,8828737,18417471,126,2012,Series C
+INV_452,PeakFund,Accelerator,Palo Alto,Mobility;Web3,61458,705625,86,2016,Series A;Series D
+INV_453,VertexHoldings,Angel Network,Jerusalem,Web3;5G,3456578,25461140,277,1988,Series A;Seed;Series B
+INV_454,PeakCollective,Angel,Dublin,Gaming;Fintech;E-commerce;Web3,292424,3361049,190,2003,Series D;Series A;Seed
+INV_455,DeltaGroup,Corporate VC,Beijing,Mobility;HealthTech;SaaS,9770714,130909555,59,1986,Series C;Series A
+INV_456,VertexHoldings,VC,Atlanta,EdTech;Web3;Fintech,583404,51943002,168,2023,Series A;Series D
+INV_457,BetaPartners,VC,Miami,HealthTech;IoT;5G;FoodTech,2222580,91738979,12,1982,Series A;Series C;Series D
+INV_458,ZenithInvestment,Angel,Jerusalem,E-commerce;IoT;AI,233124,2234476,77,2003,Series C
+INV_459,RiseInvestment,Accelerator,Miami,Fintech;CleanTech;AI,56821,253343,267,2011,Series D;Series B
+INV_460,EmergeCollective,VC,Palo Alto,Mobility;Fintech;AI,4836813,61418061,188,2013,Series C;Series A
+INV_461,ZenithHoldings,Accelerator,Bangalore,E-commerce;Mobility;5G;CleanTech,55188,789888,132,2011,Seed;Series C;Series A
+INV_462,RiseCapital,Corporate VC,Tokyo,Fintech;HealthTech;FoodTech,9870963,111052095,54,1993,Series D;Seed
+INV_463,PrimeVentures,Corporate VC,Bangalore,AI;HealthTech;IoT,7516693,121750228,179,1985,Seed
+INV_464,EmergeGroup,Angel,Austin,IoT;Web3;CleanTech;Mobility,259931,1576274,211,1994,Series D
+INV_465,RiseCapital,Corporate VC,Jerusalem,Gaming;E-commerce,4990762,170720727,48,2023,Seed;Series A
+INV_466,StellarCapital,Angel Network,Berlin,Fintech;Gaming,1976683,23304188,260,1999,Series C;Seed;Series B
+INV_467,VisionGrowth,Angel Network,Chicago,CleanTech;SaaS;Fintech;E-commerce,4731815,92021140,20,2018,Series C;Series A
+INV_468,VertexCollective,VC,Los Angeles,Mobility;E-commerce,4628805,49410748,66,2021,Series C;Series B
+INV_469,AlphaGrowth,Angel,Bangalore,CleanTech;SaaS;Mobility;Fintech,426916,3216425,274,1999,Series B;Series C
+INV_470,NextLabs,Corporate VC,Beijing,HealthTech;IoT;Gaming;E-commerce,9885689,165799674,36,2011,Series B;Series C;Series D
+INV_471,AlphaEquity,Angel Network,Berlin,AI;SaaS;E-commerce,4225732,92861820,269,2012,Series B
+INV_472,SparkCapital,Angel Network,Seattle,Mobility;5G,2852000,24619929,20,1983,Series B
+INV_473,ZenithCollective,VC,Chicago,Gaming;SaaS,636017,25570874,224,1988,Series C
+INV_474,QuantumHoldings,Corporate VC,Dublin,Mobility;E-commerce;Gaming,8437970,114825438,129,2019,Seed
+INV_475,PeakGrowth,Corporate VC,Menlo Park,IoT;EdTech;E-commerce;AI,4838673,175015190,211,2022,Series A
+INV_476,HorizonFund,Angel,Denver,Fintech;HealthTech;IoT,39406,1876778,163,1999,Series C;Series B;Series D
+INV_477,EmergePartners,Angel Network,Atlanta,Fintech;HealthTech;Web3;SaaS,4690257,52863556,255,2022,Series C
+INV_478,SummitEquity,Corporate VC,Seattle,HealthTech;Fintech;EdTech,6941785,26529941,197,1993,Seed
+INV_479,QuantumLabs,VC,Seattle,E-commerce;Fintech;CleanTech,2892678,73717051,148,2020,Series B;Series C;Seed
+INV_480,StellarInnovation,Corporate VC,Jerusalem,HealthTech;SaaS,9992233,113838398,201,2004,Series B
+INV_481,BetaInvestment,Corporate VC,Los Angeles,E-commerce;IoT,3836570,14264577,7,1996,Series B;Series D
+INV_482,NexusPartners,Angel,Boston,HealthTech;Fintech,409440,4274424,39,2001,Series A
+INV_483,HorizonHoldings,Corporate VC,Palo Alto,Gaming;HealthTech,5923032,34813854,112,1980,Series D
+INV_484,ZenithGrowth,Angel,San Francisco,SaaS;AI,486925,3496850,176,2020,Series C;Series B
+INV_485,StellarCapital,Angel Network,Austin,HealthTech;AI;Fintech;IoT,2577907,23659900,121,2008,Series C;Series D
+INV_486,AlphaEquity,Corporate VC,Los Angeles,EdTech;Gaming,9923409,30779160,123,2010,Series C;Series D
+INV_487,QuantumVentures,VC,Menlo Park,FoodTech;Fintech;Gaming,2123947,55795047,262,2010,Seed;Series B
+INV_488,ApexInnovation,VC,Singapore,IoT;E-commerce,3538981,75240737,276,2008,Series C;Seed;Series A
+INV_489,QuantumCapital,Corporate VC,Montreal,E-commerce;SaaS,6623376,151985138,238,2023,Series A;Series C
+INV_490,QuantumGrowth,Angel Network,Denver,CleanTech;E-commerce;EdTech,3755043,30419131,38,1997,Series B;Series C
+INV_491,VisionPartners,VC,Palo Alto,Gaming;EdTech,3404337,37070674,141,2013,Series D;Series B
+INV_492,NextFund,Corporate VC,London,AI;CleanTech,7752156,20451584,158,2007,Series C;Seed;Series D
+INV_493,QuantumInvestment,Corporate VC,Denver,SaaS;Mobility;EdTech,4321793,30797427,30,1998,Series C;Series D;Seed
+INV_494,RiseVentures,Accelerator,Palo Alto,Mobility;Web3;E-commerce,56016,824933,139,2012,Series C
+INV_495,PrimeGroup,Accelerator,Bangalore,Gaming;Mobility;HealthTech,61692,674964,47,2009,Series A;Seed;Series D
+INV_496,SparkGroup,Angel,Singapore,E-commerce;HealthTech,68317,3546972,183,2001,Series D
+INV_497,RiseGroup,Angel,Singapore,IoT;SaaS;Gaming;Web3,423596,2767306,15,1989,Series B;Series A
+INV_498,StellarInnovation,VC,Shanghai,HealthTech;E-commerce;IoT,1330520,66006898,245,2003,Series A;Series C;Series B
+INV_499,EmergeInnovation,Accelerator,Boston,CleanTech;Fintech;Mobility;Gaming,216414,557984,138,1985,Series D;Seed
+INV_500,ZenithCapital,Accelerator,Amsterdam,CleanTech;E-commerce;Mobility,117806,385743,266,2008,Series D
